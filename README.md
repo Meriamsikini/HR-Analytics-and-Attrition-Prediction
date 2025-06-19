@@ -42,6 +42,8 @@ This project focuses on analyzing and predicting employee attrition using Python
 - Streamlit
 - Jupyter Notebook
 
-##📌 Authors
-MERIAM SIKINI
+
+##  📌 Authors
+- MERIAM SIKINI
+
 
