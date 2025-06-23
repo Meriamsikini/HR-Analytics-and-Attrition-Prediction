@@ -95,3 +95,6 @@ st.text(classification_report(y_test, y_pred_rf))
 
 st.subheader("Classification Report - XGBoost")
 st.text(classification_report(y_test, y_pred_xgb))
+
+
+#to run the app, use the command:streamlit run "HR-Analytics-and-Attrition-Prediction-main/scripts/Visualise_The_prediction.py"

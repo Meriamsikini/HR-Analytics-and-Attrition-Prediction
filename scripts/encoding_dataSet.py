@@ -51,6 +51,12 @@ df['Attrition'] = df['Attrition'].map({'Yes': 1, 'No': 0})
 df = df.fillna(0)  
 
 
-# Save the encoded and feature-engineered data
-df.to_csv("encode_featured.csv", index=False)
+
+output_dir = os.path.join(os.path.dirname(__file__), "../models")
+os.makedirs(output_dir, exist_ok=True)
+
+# Ensuite tu peux sauvegarder ton fichier
+output_path = os.path.join(output_dir, "encode_featured.csv")
+df.to_csv(output_path, index=False)
+
 print("Encoded and feature-engineered data saved and ready for ML")
