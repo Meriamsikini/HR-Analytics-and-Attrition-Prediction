@@ -54,7 +54,7 @@ results['Will Stay?'] = results[['RF_Prediction', 'XGB_Prediction']].mode(axis=1
 st.title("Employee Attrition Prediction Dashboard")
 
 
-st.header("Current Employees (Attrition = 0)")
+st.header("Current Employees ")
 st.dataframe(df[df["Attrition"] == 0])
 
 
