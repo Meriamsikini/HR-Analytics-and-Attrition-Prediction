@@ -6,9 +6,20 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report, accuracy_score, confusion_matrix
 from xgboost import XGBClassifier
+import os
+
+# Obtenir le chemin absolu du dossier contenant le script
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Construire le chemin vers le fichier CSV
+csv_path = os.path.join(script_dir, "../models/encode_featured.csv")
+
+# Charger le fichier
+df = pd.read_csv(csv_path)
 
 
-df = pd.read_csv("encode_featured.csv")
+
+#df = pd.read_csv("encode_featured.csv")
 
 X = df.drop(['Attrition'], axis=1)
 y = df['Attrition']

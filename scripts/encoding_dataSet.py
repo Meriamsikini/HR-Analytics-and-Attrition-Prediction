@@ -1,7 +1,14 @@
 import pandas as pd
+import os
 
-# Load cleaned dataset
-df = pd.read_csv("HR-Employee-Attrition-cleaning.csv")
+# Obtenir le chemin absolu du dossier contenant le script
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Construire le chemin vers le fichier CSV
+csv_path = os.path.join(script_dir, "../data/HR-Employees-cleaning.csv")
+
+# Charger le fichier
+df = pd.read_csv(csv_path)
 
 # --- Feature Engineering ---
 
@@ -41,10 +48,8 @@ df = pd.get_dummies(df, columns=cat_cols, drop_first=True)
 df['Attrition'] = df['Attrition'].map({'Yes': 1, 'No': 0})
 
 # --- Double-check for missing values ---
-df = df.fillna(0)  # Or use another imputation if needed
+df = df.fillna(0)  
 
-# --- Final check for data leakage (remove future info if any) ---
-# (Assuming all features are safe; adjust here if you spot any leakage)
 
 # Save the encoded and feature-engineered data
 df.to_csv("encode_featured.csv", index=False)
