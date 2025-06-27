@@ -43,6 +43,17 @@ This project focuses on analyzing and predicting employee attrition using Python
 - Jupyter Notebook
 
 
+
+![Prediction Screenshot](images/screenshot1.png)
+![Prediction Screenshot](images/screenshot1.png)
+![Prediction Screenshot](images/screenshot1.png)
+![Prediction Screenshot](images/screenshot1.png)
+![Prediction Screenshot](images/screenshot1.png)
+![Prediction Screenshot](images/screenshot1.png)
+![Prediction Screenshot](images/screenshot1.png)
+![Prediction Screenshot](images/screenshot1.png)
+![Prediction Screenshot](images/screenshot1.png)
+![Prediction Screenshot](images/screenshot1.png)
 ##  📌 Authors
 - MERIAM SIKINI
 
