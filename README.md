@@ -51,8 +51,9 @@ This project focuses on analyzing and predicting employee attrition using Python
 
 ### 🤖 Prediction Results
 ![Prediction Screenshot](https://github.com/Meriamsikini/HR-Analytics-and-Attrition-Prediction/blob/main/Capture%20d'%C3%A9cran%202025-06-27%20204621.png?raw=true.png)
-![Prediction Screenshot](https://github.com/Meriamsikini/HR-Analytics-and-Attrition-Prediction/blob/main/Capture%20d'%C3%A9cran%202025-06-27%20204710.png?raw=true.png)
+![Prediction Screenshot](https://github.com/Meriamsikini/HR-Analytics-and-Attrition-Prediction/blob/main/Capture%20d'%C3%A9cran%202025-06-27%20204724.png?raw=true.png)
 ![Prediction Screenshot](https://github.com/Meriamsikini/HR-Analytics-and-Attrition-Prediction/blob/main/Capture%20d'%C3%A9cran%202025-06-27%20204749.png?raw=true.png)
+![Prediction Screenshot](https://github.com/Meriamsikini/HR-Analytics-and-Attrition-Prediction/blob/main/Capture%20d'%C3%A9cran%202025-06-27%20204807.png?raw=true.png)
 ![Prediction Screenshot](https://github.com/Meriamsikini/HR-Analytics-and-Attrition-Prediction/blob/main/Capture%20d'%C3%A9cran%202025-06-27%20204828.png?raw=true.png)
 
 ##  📌 Authors
