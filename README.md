@@ -43,17 +43,18 @@ This project focuses on analyzing and predicting employee attrition using Python
 - Jupyter Notebook
 
 
+### 📊 Visualization Screenshots
+![Prediction Screenshot](https://github.com/Meriamsikini/HR-Analytics-and-Attrition-Prediction/blob/main/Capture%20d%E2%80%99%C3%A9cran%202025-06-27%20203840.png?raw=true.png)
+![Prediction Screenshot](https://github.com/Meriamsikini/HR-Analytics-and-Attrition-Prediction/blob/main/Capture%20d'%C3%A9cran%202025-06-27%20203905.png?raw=true.png)
+![Prediction Screenshot](https://github.com/Meriamsikini/HR-Analytics-and-Attrition-Prediction/blob/main/Capture%20d'%C3%A9cran%202025-06-27%20203924.png?raw=true.png)
+![Prediction Screenshot](https://github.com/Meriamsikini/HR-Analytics-and-Attrition-Prediction/blob/main/Capture%20d'%C3%A9cran%202025-06-27%20203944.png?raw=true.png)
 
-![Prediction Screenshot](images/screenshot1.png)
-![Prediction Screenshot](images/screenshot1.png)
-![Prediction Screenshot](images/screenshot1.png)
-![Prediction Screenshot](images/screenshot1.png)
-![Prediction Screenshot](images/screenshot1.png)
-![Prediction Screenshot](images/screenshot1.png)
-![Prediction Screenshot](images/screenshot1.png)
-![Prediction Screenshot](images/screenshot1.png)
-![Prediction Screenshot](images/screenshot1.png)
-![Prediction Screenshot](images/screenshot1.png)
+### 🤖 Prediction Results
+![Prediction Screenshot](https://github.com/Meriamsikini/HR-Analytics-and-Attrition-Prediction/blob/main/Capture%20d'%C3%A9cran%202025-06-27%20204621.png?raw=true.png)
+![Prediction Screenshot](https://github.com/Meriamsikini/HR-Analytics-and-Attrition-Prediction/blob/main/Capture%20d'%C3%A9cran%202025-06-27%20204710.png?raw=true.png)
+![Prediction Screenshot](https://github.com/Meriamsikini/HR-Analytics-and-Attrition-Prediction/blob/main/Capture%20d'%C3%A9cran%202025-06-27%20204749.png?raw=true.png)
+![Prediction Screenshot](https://github.com/Meriamsikini/HR-Analytics-and-Attrition-Prediction/blob/main/Capture%20d'%C3%A9cran%202025-06-27%20204828.png?raw=true.png)
+
 ##  📌 Authors
 - MERIAM SIKINI
 
